@@ -1,7 +1,7 @@
 package pajutie.salary;
 
 public class Income {
-    final private static int salary = 3500;
+    final private static int salary = 3600;
 
     public double allExpenses(){
         return ConfigReader.getAllExpensesAsMap().values()
